@@ -88,7 +88,6 @@ section(" What this app does not do")
 st.markdown(
     """
 - It does not predict discovery. The ranking is a prioritization aid.
-- It does not incorporate EICB proprietary data or drill-hole assays.
 - It does not model geology — no DKF-NPF contact, no stratigraphy, no mineral-system fertility.
 - It does not update live. The shortlist is fixed; re-run the notebook to change it.
 - It does not replace a geologist. Every target requires field confirmation.
