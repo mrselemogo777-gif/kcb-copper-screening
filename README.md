@@ -1,4 +1,4 @@
-# KCB Copper Target Screening — EICB × MDO
+# KCB Copper Target Screening 
 
 Decision-support tool that ranks candidate copper target areas inside the USGS Northwest Botswana Rift tract (Kalahari Copper Belt), using proximity to existing operations and known sediment-hosted copper occurrences.
 
