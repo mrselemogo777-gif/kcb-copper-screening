@@ -4,7 +4,7 @@ Decision-support tool that ranks candidate copper target areas inside the USGS N
 
 ##  Scope
 
-Prioritization aid, not a prediction of discovery. All ranked targets must be confirmed by a qualified geologist before any data-acquisition or drilling decision. Does not incorporate EICB proprietary data or drill-hole assays.
+Prioritization aid, not a prediction of discovery. All ranked targets must be confirmed by a qualified geologist before any data-acquisition or drilling decision.
 
 ##  Ranking Output
 
