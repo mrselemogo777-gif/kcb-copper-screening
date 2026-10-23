@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "anchors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Khoemacau" }, "geometry": { "type": "Point", "coordinates": [ 22.6431, -21.0944 ] } },
+{ "type": "Feature", "properties": { "name": "Motheo" }, "geometry": { "type": "Point", "coordinates": [ 26.9718, -22.5179 ] } }
+]
+}
